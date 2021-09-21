@@ -14,7 +14,7 @@ public class PrimeiroPrograma {
 				
 				
 				/*int a: 2;
-		int b: 3;
+		int b: 3;          EU QUERO QUE APAGUE
 		
      System.out.println("Hello Word " + (a+b) );*/
 	}
